@@ -13,7 +13,8 @@ header {
     display: flex;
     align-items: center;
     justify-content: space-evenly;
-    border-bottom: 1px solid var(--cor-fundo-cinza-escuro);
+    border-bottom: 1px solid var(--cor-fundo-cinza-claro);
+    margin-top: 10px;
 }
 
 p, h1, h2, h3, h4, option, select {
@@ -64,9 +65,10 @@ select:focus{
     border-radius: 2px;
 }
 
+/* 
 .icon-search{
     
-}
+} */
 
 /*  */
 
